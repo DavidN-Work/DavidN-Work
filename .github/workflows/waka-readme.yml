@@ -1,0 +1,26 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 12am UTC
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: all_time
+          LANG_COUNT: 10 # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          COMMITTER_NAME: GitHubActionBot # optional
+          COMMITTER_EMAIL: action-bot@github.com # optional
+          BLOCKS: ░▒▓█ # optional
