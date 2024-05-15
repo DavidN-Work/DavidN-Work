@@ -24,3 +24,6 @@ jobs:
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
           BLOCKS: ░▒▓█ # optional
+          IGNORED_LANGUAGES: Other # optional
+          SHOW_TITLE: true # optional
+
