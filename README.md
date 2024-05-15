@@ -26,7 +26,7 @@ Software and 6 in Business.
 
 ![Experence](/assets/Frameworks.png)
 
-## 🧑🏻‍💻 **Weekly development breakdown**
+## 🧑🏻‍💻 **Development breakdown**
 
 <!--START_SECTION:waka-->
 
