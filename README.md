@@ -36,7 +36,6 @@ From: 09 December 2021 - To: 14 May 2024
 Total Time: 2,680 hrs
 
 TypeScript       2,312 hrs 6 mins███████████████████▓░░░░░   78.32 %
-Other            272 hrs 3 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
 JSON             90 hrs 43 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 JavaScript       52 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 Artboard         46 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
