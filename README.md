@@ -31,6 +31,8 @@ Software and 6 in Business.
 <!--START_SECTION:waka-->
 
 ```txt
+From: 09 December 2021 - To: 14 May 2024
+
 Total Time: 2,680 hrs
 
 TypeScript       2,312 hrs 6 mins███████████████████▓░░░░░   78.32 %
