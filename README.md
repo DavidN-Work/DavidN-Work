@@ -31,19 +31,19 @@ Software and 6 in Business.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2021 - To: 14 May 2024
+From: 09 December 2021 - To: 15 May 2024
 
-Total Time: 2,680 hrs
+Total Time: 2,684 hrs 21 mins
 
-TypeScript       2,312 hrs 6 mins███████████████████▓░░░░░   78.32 %
-Other            272 hrs 3 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
-JSON             90 hrs 43 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+TypeScript       2,314 hrs 37 mins███████████████████▓░░░░░   78.29 %
+Other            272 hrs 3 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+JSON             90 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 JavaScript       52 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-Artboard         46 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Bash             42 hrs 58 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Artboard         46 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Bash             42 hrs 58 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 XML              17 hrs 58 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-HTML             17 hrs 52 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Markdown         17 hrs 8 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+HTML             17 hrs 52 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Markdown         17 hrs 49 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 CSS              16 hrs 30 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
