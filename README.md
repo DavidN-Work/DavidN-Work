@@ -31,12 +31,12 @@ Software and 6 in Business.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2021 - To: 19 May 2024
+From: 09 December 2021 - To: 20 May 2024
 
-Total Time: 2,692 hrs 8 mins
+Total Time: 2,695 hrs 3 mins
 
-TypeScript       2,316 hrs 57 mins███████████████████▓░░░░░   78.16 %
-Other            272 hrs 17 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+TypeScript       2,316 hrs 57 mins███████████████████▓░░░░░   78.08 %
+Other            272 hrs 17 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
 JSON             91 hrs 57 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 JavaScript       52 hrs 10 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 Artboard         46 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
