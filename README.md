@@ -31,7 +31,7 @@ Software and 6 in Business.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2021 - To: 25 May 2024
+From: 09 December 2021 - To: 26 May 2024
 
 Total Time: 2,719 hrs 26 mins
 
