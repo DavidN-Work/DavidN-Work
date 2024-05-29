@@ -13,7 +13,7 @@ Software and 6 in Business.
 ## 😎 Fun fact:
 
 - 🔭 &nbsp;I’m currently working on an IDE for easy development of Frontend and Backend Applications
-- 🌱 &nbsp;I’m currently learning Embedded Programming
+- 🌱 &nbsp;I’m currently learning Embedded Programming and Go
 - 💬 &nbsp;Ask me about anything related to Typescript, Next JS, DevOps and SecOps, React and
   Security Related Opinions.
 - 🦉 &nbsp;Early bird or night owl? Night owl
@@ -27,6 +27,8 @@ Software and 6 in Business.
 ![Experence](/assets/Frameworks.png)
 
 ## 🧑🏻‍💻 **Development breakdown**
+
+Some data may be missing due to workplace privacy settings.
 
 <!--START_SECTION:waka-->
 
