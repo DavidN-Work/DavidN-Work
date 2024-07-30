@@ -33,15 +33,15 @@ Some data may be missing due to workplace privacy settings.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2021 - To: 27 July 2024
+From: 09 December 2021 - To: 28 July 2024
 
-Total Time: 2,953 hrs 49 mins
+Total Time: 2,959 hrs 38 mins
 
-TypeScript       2,511 hrs 23 mins███████████████████▒░░░░░   77.70 %
-Other            278 hrs 22 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
-JSON             99 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+TypeScript       2,516 hrs 33 mins███████████████████▒░░░░░   77.72 %
+Other            278 hrs 22 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+JSON             100 hrs 9 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 Bash             57 hrs 41 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-JavaScript       56 hrs 4 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+JavaScript       56 hrs 4 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 Artboard         46 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 YAML             24 hrs 49 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 Markdown         19 hrs 8 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
