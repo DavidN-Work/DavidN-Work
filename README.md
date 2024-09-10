@@ -9,7 +9,8 @@ Software and 6 in Business.
 
 - LinkedIn: [David Ngo](https://www.linkedin.com/in/-david-ngo/)
 - Email: [DavidN@Edcursion.com](mailto:DavidN@Edcursion.com)
-
+- Portfolio: [DavidNgo.dev](https://davidngo.dev/)
+  
 ## 😎 Fun fact:
 
 - 🔭 &nbsp;I’m currently working on an IDE for easy development of Frontend and Backend Applications
