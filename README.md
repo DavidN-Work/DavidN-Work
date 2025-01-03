@@ -34,9 +34,9 @@ Some data may be missing due to workplace privacy settings.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2021 - To: 31 December 2024
+From: 09 December 2021 - To: 01 January 2025
 
-Total Time: 2,995 hrs 22 mins
+Total Time: 2,995 hrs 29 mins
 
 TypeScript       2,532 hrs 17 mins███████████████████▒░░░░░   77.31 %
 JSON             105 hrs 27 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
