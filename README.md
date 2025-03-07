@@ -34,7 +34,7 @@ Some data may be missing due to workplace privacy settings.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2021 - To: 04 March 2025
+From: 09 December 2021 - To: 05 March 2025
 
 Total Time: 2,999 hrs 36 mins
 
